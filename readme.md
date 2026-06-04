@@ -28,7 +28,7 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* Reading: [Useful Flask Playlist](https://www.youtube.com/watch?v=45P3xQPaYxc&list=PLEpRcxOmTFlN1ITmQU5P8PHXBSSIMBZaS)
+* YouTube Playlist: [Useful Flask Playlist](https://www.youtube.com/watch?v=45P3xQPaYxc&list=PLEpRcxOmTFlN1ITmQU5P8PHXBSSIMBZaS)
 
 ## Future Work
 
